@@ -42,5 +42,5 @@ Project is hosted at [Heroku](https://book-garden.herokuapp.com/).
 Project also conatins Python script that fills databse with demo data. Script uses Faker to generate data and Selenium to download info about real books from book store websites.  
 
 ### Assignment
-For original assigment see [assignment.md](https://github.com/freedie666/Book-garden/blob/main/assignment.md) \[Czech language]. 
+For original assigment see [assignment.md](https://github.com/Adam-Fabo/Book-Garden/blob/main/assignment.md) \[Czech language]. 
 
